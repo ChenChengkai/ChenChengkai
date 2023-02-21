@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 
 Here is my project, I will add it as soon as possible.
+![Image text](https://github.com/ChenChengkai/cck_data/blob/master/pic/calib/calib_camera.gif)
+
 <!---
 ChenChengkai/ChenChengkai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
