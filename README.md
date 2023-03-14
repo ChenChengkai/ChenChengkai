@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @ChenChengkai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Pytorch
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : chenchengkai1998@gmail.com
 
-![Ai Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChenChengkai&theme=transparent)
+![AI Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChenChengkai&theme=radical)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenChengkai&theme=transparent)
 
